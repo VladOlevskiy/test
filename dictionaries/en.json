@@ -1,0 +1,10 @@
+{
+  "form": {
+    "name": "name",
+    "email": "email",
+    "city": "city"
+  },
+  "about": {
+    "text": "this is about our company"
+  }
+}
